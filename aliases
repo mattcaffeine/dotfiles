@@ -1,0 +1,6 @@
+alias gs='git status'
+alias gr='git remote -v'
+alias gb='git branch -a'
+alias gcu='git pull origin master --rebase'
+alias gl='git log --oneline --decorate --graph --all'
+alias gf='git log --oneline --decorate --abbrev-commit --all'
